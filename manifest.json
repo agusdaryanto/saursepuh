@@ -1,0 +1,38 @@
+{
+  "name": "Saur Sepuh",
+  "short_name": "Saur Sepuh",
+  "start_url": "https://www.saursepuh.my.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Mengetahui sejarah adalah sebuah keharusan, agar kita bisa bersyukur kepada Allah SWT.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s48/LogoSS.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s72/LogoSS.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s96/LogoSS.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s144/LogoSS.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s168/LogoSS.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s192/LogoSS.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Hcdw4KLuFY8/Xp5yjsDLkLI/AAAAAAAADso/UyvcHJkPzu8g3Fpsumqfrja3KxRokBhfgCLcBGAsYHQ/s512/LogoSS.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
