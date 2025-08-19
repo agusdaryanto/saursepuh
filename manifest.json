@@ -1,7 +1,7 @@
 {
-  "name": "Saur Sepuh",
-  "short_name": "Saur Sepuh",
-  "start_url": "https://www.saursepuh.my.id",
+  "name": "Sejarah Desa",
+  "short_name": "Sejarah Desa",
+  "start_url": "https://www.sejarahdesa.my.id",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
@@ -35,4 +35,5 @@
     "sizes": "512x512",
     "type": "image/png"
   }]
+
 }
